@@ -226,14 +226,14 @@ function AddStudent({
 
         <button
           type="submit"
-          className="btn btn-success me-2 px-4"
+          className="btn btn-success me-2 px-5"
         >
           {editStudentData ? "Update Student" : "Save Student"}
         </button>
 
         <button
           type="reset"
-          className="btn btn-danger px-4"
+          className="btn btn-danger px-5"
         >
           Reset
         </button>
